@@ -1,0 +1,25 @@
+<resources>
+
+    <string name="app_name">Przyrodnik</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_observation_map">Lokalizacja</string>
+    <string name="wait_for_location_turn_on_GPS">Oczękuję na lokalizację...\nUpewnij się, że GPS jest włączony</string>
+    <string name="wait_text">Zaczekaj</string>
+    <string name="no_location">Brak dostępnej lokalizacji</string>
+    <string name="save_or_wait">Możesz zapisać obserwację bez lokalizacji lub zaczekać na lokalizację</string>
+    <string name="no_location_save_without">Zapisz bez lokalizacji</string>
+    <string name="alert">Uwaga</string>
+    <string name="picture_will_be_deleted">Obecne zdjęcie zostanie skasowane. Kontynuować?</string>
+    <string name="continue_string">Kontynuuj</string>
+    <string name="drop">Porzuć</string>
+    <string name="title_hint">tytuł</string>
+    <string name="note_hint">notatka</string>
+    <string name="make_photo_button">Zrób \nzdjęcie</string>
+    <string name="save_button">Zapisz</string>
+    <string name="show_on_map_button">Pokaż na mapie</string>
+    <string name="no_browser_available">Brak dostępnej przeglądarki internetowej</string>
+    <string name="enable_GPS">Upewnij się, że GPS jest włączony</string>
+    <string name="map">Mapa</string>
+    <string name="satellite">Teren</string>
+
+</resources>
